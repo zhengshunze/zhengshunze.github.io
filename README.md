@@ -1,7 +1,7 @@
 #  鄭舜澤 (Shunze Zheng)
 
  - Birthday: May 23th , 1998
- - Education: 私立明志科技大學-機械工程系
+ - Education: 明志科技大學-機械工程系
  - Personal Website: 
  - Location: Taoyuan
  - E-Mail: zhengshunze2021@gmail.com
