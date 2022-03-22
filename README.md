@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+#  鄭舜澤 (Shunze Zheng)
 
-You can use the [editor on GitHub](https://github.com/zhengshunze/zhengshunze.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ - Birthday: May 23th , 1998
+ - Education: 私立明志科技大學-機械工程系
+ - Personal Website: 
+ - Location: Taoyuan
+ - E-Mail: zhengshunze2021@gmail.com
+ - Mobile: 0928-268-701
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengshunze&show_icons=true&theme=radical)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#  使用的程式語言
 
-```markdown
-Syntax highlighted code block
+  ![](https://img.shields.io/badge/Python-FFFFFF)
+  ![](https://img.shields.io/badge/C%23-FFFFFF)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# 使用的IDE
 
-1. Numbered
-2. List
+- 語言
 
-**Bold** and _Italic_ and `Code` text
+   ![](https://img.shields.io/badge/Pycharm-FFFFFF)
+   ![](https://img.shields.io/badge/Xcode-FFFFFF)
+   ![](https://img.shields.io/badge/VSCODE-FFFFFF)
+   ![](https://img.shields.io/badge/Visual%20Studio-FFFFFF)
+   
+- 數據庫
 
-[Link](url) and ![Image](src)
-```
+   ![](https://img.shields.io/badge/MySQL-FFFFFF)
+   ![](https://img.shields.io/badge/Mongodb-FFFFFF)
+   
+#  使用的套件
+- 爬蟲、自動化網頁測試
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    ![](https://img.shields.io/badge/bs4-FFFFFF)
+    ![](https://img.shields.io/badge/requests-FFFFFF)
+    ![](https://img.shields.io/badge/requests--html-FFFFFF)
+    ![](https://img.shields.io/badge/selenium-FFFFFF)
+    ![](https://img.shields.io/badge/urllib3-FFFFFF)
 
-### Jekyll Themes
+- 語音辨識TTL、光學字元辨識OCR
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhengshunze/zhengshunze.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    ![](https://img.shields.io/badge/google--cloud--vision-FFFFFF)
 
-### Support or Contact
+- 網站框架
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   ![](https://img.shields.io/badge/Jinja2-FFFFFF)
+   ![](https://img.shields.io/badge/Flask-FFFFFF)
+   ![](https://img.shields.io/badge/jupyterlab-FFFFFF)
+
+- 資料分析、數據處理
+
+   ![](https://img.shields.io/badge/numpy-FFFFFF)
+   ![](https://img.shields.io/badge/pandas-FFFFFF)
+
+- 遊戲開發
+
+   ![](https://img.shields.io/badge/pygame-FFFFFF)
+
+- 影像處理、視覺辨識
+
+  ![](https://img.shields.io/badge/Opencv-FFFFFF)
+
+- 聊天機器人
+
+   ![](https://img.shields.io/badge/line--bot--sdk-FFFFFF)
